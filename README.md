@@ -20,8 +20,6 @@ Automated Dashboard Refresh
 Interactive Power BI Dashboard
 
 
-Tech Stack
-
 
 Python
 
@@ -35,16 +33,12 @@ ETL
 Data Warehouse
 
 
-Star Schema
-
 
 Power BI
 
 
 GitHub
 
-
-Pabbly Connect
 
 
 Outcome
